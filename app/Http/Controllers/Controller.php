@@ -15,3 +15,4 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, ValidatesRequests;
 }
+jhbjb j
